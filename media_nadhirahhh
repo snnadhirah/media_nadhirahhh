@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<h1>Media by Nadhirah</h1>
+
+<h2>1. Video from local</h2>
+
+	<video width="420" height="340" controls>
+  		<source src="naeun.mp4" type="video/mp4">
+	</video>
+
+<h3>2. Video from youtube</h3>
+
+	<br><iframe width="420" height="315" src="https://www.youtube.com/embed/lgILaCzCv3g">
+	</iframe></br>
+
+</body>
+</html>
